@@ -9,10 +9,10 @@ const App = () => {
       <h1>Minha primeira aplicaçao com React</h1>
       <ul>
         <Item>Item 1</Item>
-         <Item>Item 2</Item>
+        <Item>Item 2</Item>
         <Item>Item 3</Item>
       </ul>
-      <Card/>
+      <Card />
     </>
   );
 };
