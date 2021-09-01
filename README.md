@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Instrutora: Nathally Souza
 
+Paste react-dio
+
 ## Available Scripts
 
 In the project directory, you can run:
